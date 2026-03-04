@@ -13,7 +13,7 @@ Improvement suggestions
 This project focuses on UI/UX excellence, DOM manipulation, structured content evaluation, and animated user feedback mechanisms.
 🌐 Live Demo
 🔗 Live Website:
-https://rohan-bytes.github.io/Resume_Pro/
+http://127.0.0.1:5501/Index.html
 
 🎯 Problem Statement
 Most candidates get rejected not because of lack of skills — but because their resumes fail ATS filters.
