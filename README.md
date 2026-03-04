@@ -46,15 +46,22 @@ Content completeness
 Skill mentions
 Structural formatting
 
+Front Page:
 <img width="1843" height="872" alt="image 55" src="https://github.com/user-attachments/assets/ca7ab37a-ea84-44af-928d-35189f9e33be" />
+
+Middle Page:
 <img width="1730" height="855" alt="image 56" src="https://github.com/user-attachments/assets/98a8cc8c-64f8-4b2c-badd-9056f2386cc0" />
+
+
 <img width="1712" height="848" alt="image 57" src="https://github.com/user-attachments/assets/ddf28687-d5ec-4709-9080-42d51808ca3b" />
+
+Resume Download Option:
 <img width="1177" height="462" alt="image 58" src="https://github.com/user-attachments/assets/108f5e0f-879d-4d68-bd48-047ca636c19a" />
+
+Resume Review:
 <img width="602" height="897" alt="image 59" src="https://github.com/user-attachments/assets/1cd6fb18-6277-4792-a305-25e3f7d79214" />
 
 
 
 
 
-💻 Tech Stack:
-C CSS3 Java JavaScript Python TypeScript Objective-C Oracle AWS Azure FastAPI Redux React TailwindCSS MongoDB MySQL Adobe Acrobat Reader Canva
